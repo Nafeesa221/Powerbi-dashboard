@@ -27,14 +27,7 @@ Welcome to the Prism Plus Dashboard repository. This Power BI dashboard provides
 ## Additional Information
 
 - **Version**: 1.0
-- **Author**: [Your Name]
-- **Contact**: [Your Email]
-- **License**: [License Information]
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-## License
+- **Author**: Nafeesa Karim
+- **Contact**: nafeesakarim22@outlook.com
 
 
