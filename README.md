@@ -2,10 +2,13 @@
 
 ## Overview
 
-Welcome to the Prism Plus Dashboard repository. This Power BI dashboard provides comprehensive insights into sales performance and customer behaviour for a loyalty programme called Prism Plus for an e-commerce company Prism. Designed with interactivity and user-friendliness in mind, the dashboard offers detailed analysis and visualization of key metrics to help drive data-informed decisions.
+Welcome to the Prism Plus Dashboard repository. This Power BI dashboard provides an in-depth analysis of the effectiveness of our Prism Plus loyalty program. By incorporating control groups, the dashboard enables us to measure and compare the impact of the loyalty program on customer behavior and business metrics.
+
 
 ## Features
 
+--**Effectiveness Analysis**: Evaluate the impact of the Prism Plus loyalty program on various KPIs.
+--**Control Groups**: Compare the performance of customers enrolled in the loyalty program with those in control groups who are not part of the program.
 - **Interactive Visuals**: Explore the data through various interactive charts, graphs, and tables.
 - **User-Friendly Interface**: Navigate and interpret data with ease using the intuitive layout.
 - **Customizable Views**: Filter and customize the dashboard to focus on specific data segments.
