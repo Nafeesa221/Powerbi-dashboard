@@ -13,20 +13,16 @@ Welcome to the Prism Plus Dashboard repository. This Power BI dashboard provides
 
 ## Usage Instructions
 
-1. **Access the Dashboard**:
-   - Open the `index.html` file in the root directory to view the embedded Power BI dashboard.
-   - Alternatively, visit the GitHub Pages URL for a live view: `https://username.github.io/repository/`
+1. **View the Dashboard PDF**:
+   - [Click here to view the Power BI dashboard PDF](Prism%20Plus%20Dashboard.pdf)
 
 2. **Navigate the Dashboard**:
    - Use interactive elements to filter and drill down into specific data points.
    - Hover over charts and graphs for detailed tooltips and data insights.
 
-3. **Exporting Data**:
-   - Use the export options within the Power BI dashboard to download data and visuals for further analysis.
-
 ## Screenshot
 
-![Dashboard Screenshot](Prism Plus Screenshot.png)
+![Dashboard Screenshot](Prism%20Plus%20Screenshot.png)
 
 ## Additional Information
 
