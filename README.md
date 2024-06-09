@@ -26,7 +26,7 @@ Welcome to the Prism Plus Dashboard repository. This Power BI dashboard provides
 
 ## Screenshot
 
-![Dashboard Screenshot](path/to/PrismPlusDashboard.pdf)
+![Dashboard Screenshot](Prism Plus Screenshot.png)
 
 ## Additional Information
 
