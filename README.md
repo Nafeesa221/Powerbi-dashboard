@@ -7,8 +7,8 @@ Welcome to the Prism Plus Dashboard repository. This Power BI dashboard provides
 
 ## Features
 
---**Effectiveness Analysis**: Evaluate the impact of the Prism Plus loyalty program on various KPIs.
---**Control Groups**: Compare the performance of customers enrolled in the loyalty program with those in control groups who are not part of the program.
+- **Effectiveness Analysis**: Evaluate the impact of the Prism Plus loyalty program on various KPIs.
+- **Control Groups**: Compare the performance of customers enrolled in the loyalty program with those in control groups who are not part of the program.
 - **Interactive Visuals**: Explore the data through various interactive charts, graphs, and tables.
 - **User-Friendly Interface**: Navigate and interpret data with ease using the intuitive layout.
 - **Customizable Views**: Filter and customize the dashboard to focus on specific data segments.
